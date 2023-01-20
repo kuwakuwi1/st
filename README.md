@@ -7,7 +7,8 @@ st is a simple terminal emulator for X which sucks less. Way better than xterm o
   <summary>Screenshots</summary>
 
   *st with fish shell:*
-  [![st with fish shell](https://i.postimg.cc/PxkdPjXX/Screenshot-2023-01-20-06-57-07.png)](https://postimg.cc/8Fw20xf9)
+
+  [![st with fish shell](https://i.postimg.cc/7hr3bbcB/Screenshot-2023-01-20-07-42-09.png)](https://postimg.cc/qhQh5Bpn)
 
   *neovim(astronvim) on st with font ligatures:*
   [![Screenshot-2023-01-20-06-57-45.png](https://i.postimg.cc/fR94XrgJ/Screenshot-2023-01-20-06-57-45.png)](https://postimg.cc/HrdP1Bmg)
